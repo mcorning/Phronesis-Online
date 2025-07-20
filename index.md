@@ -21,4 +21,4 @@ Our mission is to cultivate practical wisdom — _phronesis_ — in the design, 
 
 _This site is under construction while we await Stripe and IRS processing._
 
-[View on GitHub](https://github.com/yourusername/phronesisproject.org)
+[View on GitHub](https://github.com/mcorning/phronesisproject.org)
