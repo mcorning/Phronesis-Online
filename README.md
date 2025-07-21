@@ -1,2 +1,2 @@
 # phronesisproject.org
-Website and public files for The Phronesis Project
+[Website](http://phronesisproject.org) and public files for The Phronesis Projects
