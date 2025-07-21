@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phronesis/Top Floor.md",
-                "mode": "preview",
+                "file": "Phronesis/projects/The Rabbit Warren/An Education.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Top Floor"
+              "title": "An Education"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phronesis/Top Floor.md",
+                "file": "Phronesis/projects/The Rabbit Warren/An Education.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Top Floor"
+              "title": "Backlinks for An Education"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phronesis/Top Floor.md",
+                "file": "Phronesis/projects/The Rabbit Warren/An Education.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Top Floor"
+              "title": "Outgoing links from An Education"
             }
           },
           {
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phronesis/Top Floor.md",
+                "file": "Phronesis/projects/The Rabbit Warren/An Education.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Top Floor"
+              "title": "Outline of An Education"
             }
           }
         ]
@@ -180,8 +180,13 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "dfcf9215f3afc6fc",
+  "active": "a02475096b4692a3",
   "lastOpenFiles": [
+    "Phronesis/projects/The Rabbit Warren/Manifesto.md",
+    "Phronesis/projects/The Rabbit Warren/An Education.md",
+    "Phronesis/Top Floor.md",
+    "Phronesis/projects/The Rabbit Warren",
+    "Phronesis/projects/New folder",
     "Phronesis/projects/Syntopix-Core/Stubs/UI_Policy.md",
     "Phronesis/projects/Syntopix-Core/Stubs/Syntopicon.md",
     "Phronesis/projects/Syntopix-Core/Stubs/MemoryHolon.md",
@@ -210,8 +215,6 @@
     "Phronesis/projects/Syntopix-Core/0507T17.md",
     "Phronesis/projects/Syntopix-Core",
     "Phronesis/projects",
-    "Phronesis/New folder",
-    "gitattributes",
     "README.md",
     "phronesisproject.org.md",
     "index.md"
