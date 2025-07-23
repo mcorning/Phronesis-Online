@@ -8,7 +8,7 @@ Walter Isaacson recently posed this question, noting that growth and wealth are 
 
 But in asking that, he **begs the question**—because he assumes we know what makes a life good.
 
-Ironically, as former leader of the [Aspen Institute] (https://www.aspeninstitute.org/) , Isaacson does know. But most people haven’t read Aristotle. They haven’t encountered the framework of **eudaimonia**, or the deep connection between **virtue, habit, and happiness**.
+Ironically, as former leader of the [Aspen Institute](https://www.aspeninstitute.org/) , Isaacson does know. But most people haven’t read Aristotle. They haven’t encountered the framework of **eudaimonia**, or the deep connection between **virtue, habit, and happiness**.
 
 That’s why this Warren begins here.
 
