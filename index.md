@@ -8,9 +8,12 @@ title: The Phronesis Project
 
 Our mission is to cultivate practical wisdom — _phronesis_ — in the design, use, and governance of emerging technologies. We aim to help individuals, organizations, and communities reason well and act justly in a world increasingly shaped by artificial intelligence, digital media, and algorithmic power.
 
+> *“Our Rabbit Warren is more than a burrow. It’s a living structure of shared meaning, shaped by each member's journey.”*
+
+**🪶 [Explore the Rabbit Warren Manifesto →](./A Manifesto)**
+
 ### How You Can Help
 
-- 📚 Learn from our work — [Mission + Resources coming soon](#)
 - 💜 Support our cause — Donations will be tax-deductible upon IRS approval
 - 🧠 Get involved — [Contact us](mailto:info@phronesisproject.org) to collaborate
 

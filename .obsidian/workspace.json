@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phronesis/projects/The Rabbit Warren/An Education.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "An Education"
+              "title": "index"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Phronesis/projects/The Rabbit Warren/An Education.md",
+                "file": "Phronesis/projects/The Rabbit Warren/A Manifesto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for An Education"
+              "title": "Backlinks for A Manifesto"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Phronesis/projects/The Rabbit Warren/An Education.md",
+                "file": "Phronesis/projects/The Rabbit Warren/A Manifesto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from An Education"
+              "title": "Outgoing links from A Manifesto"
             }
           },
           {
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Phronesis/projects/The Rabbit Warren/An Education.md",
+                "file": "Phronesis/projects/The Rabbit Warren/A Manifesto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of An Education"
+              "title": "Outline of A Manifesto"
             }
           }
         ]
@@ -182,9 +182,10 @@
   },
   "active": "a02475096b4692a3",
   "lastOpenFiles": [
-    "Phronesis/projects/The Rabbit Warren/Manifesto.md",
-    "Phronesis/projects/The Rabbit Warren/An Education.md",
+    "A Manifesto.md",
+    "The Good Life.md",
     "Phronesis/Top Floor.md",
+    "Phronesis/projects/The Rabbit Warren/An Education.md",
     "Phronesis/projects/The Rabbit Warren",
     "Phronesis/projects/New folder",
     "Phronesis/projects/Syntopix-Core/Stubs/UI_Policy.md",
@@ -216,7 +217,6 @@
     "Phronesis/projects/Syntopix-Core",
     "Phronesis/projects",
     "README.md",
-    "phronesisproject.org.md",
-    "index.md"
+    "phronesisproject.org.md"
   ]
 }

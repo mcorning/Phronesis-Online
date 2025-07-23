@@ -4,7 +4,7 @@ The Phronesis vault is the main entry point to all Phronesis Projects.
 ## 🧠 Phronesis (Root Vault)
 
 ### ▸ The Rabbit Warren
-- The Good Life (Poster child)
+- [[The Good Life]] (Poster child)
 - Aristotle Syntheses (Virtue, Action, Identity)
 - Democracy Repair Toolkit
 - Spaces and Vaults infrastructure
