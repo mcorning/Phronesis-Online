@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "A Manifesto.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "A Manifesto"
             }
           }
         ]
@@ -182,6 +182,7 @@
   },
   "active": "a02475096b4692a3",
   "lastOpenFiles": [
+    "index.md",
     "A Manifesto.md",
     "The Good Life.md",
     "Phronesis/Top Floor.md",
@@ -216,7 +217,6 @@
     "Phronesis/projects/Syntopix-Core/0507T17.md",
     "Phronesis/projects/Syntopix-Core",
     "Phronesis/projects",
-    "README.md",
-    "phronesisproject.org.md"
+    "README.md"
   ]
 }
