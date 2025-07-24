@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enter Here.md",
-                "mode": "source",
-                "source": false
+                "file": "A Manifesto.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Enter Here"
+              "title": "A Manifesto"
             }
           }
         ],
@@ -197,9 +197,9 @@
   },
   "active": "f2da82fb39b84974",
   "lastOpenFiles": [
-    "A Manifesto.md",
-    "Enter Here.md",
     "index.md",
+    "Enter Here.md",
+    "A Manifesto.md",
     "The Good Life.md",
     "Phronesis/Top Floor.md",
     "Phronesis/projects/The Rabbit Warren/An Education.md",
