@@ -1,0 +1,24 @@
+.obsidian/workspace.json
+.obsidian/app.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/**/data.json
+.obsidian/plugins/**/main.js.map
+.trash/
+_site/
+.DS_Store
+Thumbs.db
+
+# Syncthing
+.stfolder/
+syncthing-*
+
+# Obsidian noise
+.obsidian/workspace.json
+.obsidian/app.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/**/data.json
+.obsidian/plugins/**/main.js.map
+.trash/
+_site/
+.DS_Store
+Thumbs.db
