@@ -25,12 +25,42 @@
             "id": "264fca79e8ebbc4e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "mission-statement.pdf"
+                "file": "mission-statement.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
+              "icon": "lucide-file",
               "title": "mission-statement"
+            }
+          },
+          {
+            "id": "575a38e944f07c30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Praxis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Praxis"
+            }
+          },
+          {
+            "id": "08a9683788cb2938",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Janus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Janus"
             }
           }
         ],
@@ -236,23 +266,29 @@
   },
   "active": "264fca79e8ebbc4e",
   "lastOpenFiles": [
+    "Praxis.md",
+    "Aristotle's Theory of Virtue.md",
+    "The Agora.md",
+    "Janus.md",
+    "index.md",
+    "Holon_Tensor_Index.md",
+    "I Have a Question Nr 2.md",
+    "I Have a Question Nr 2.pdf",
+    "I Have a Question.md",
     "I Have a Question Nr 1.md",
+    "I Have a Question Nr 1.1.pdf",
+    "mission-statement.md",
+    "mission-statement.pdf",
     "I Have a Question Nr 1.pdf",
     "2025-10-16 The Agora simple.md",
     "2025-10-16 The Agora.pdf",
-    "The Agora.md",
-    "index.md",
-    "mission-statement.md",
     "donate.html",
-    "mission-statement.pdf",
     "Mission Statement.md",
     "layouts/default.html",
     "layouts",
     "New folder",
     "docs/IRS EIN Letter.pdf",
-    "docs/IRS Exemption Letter.pdf",
     "docs/Donor Summary.md",
-    "docs",
     "A Manifesto.md",
     "Enter Here.md",
     "150 by Christmas/Back Pain Hypothesis Journal – July 28, 2025.md",
@@ -265,11 +301,6 @@
     "Phronesis/projects/The Rabbit Warren/An Education.md",
     "Phronesis/projects/Syntopix-Core/Stubs/UI_Policy.md",
     "Phronesis/projects/Syntopix-Core/Stubs/Syntopicon.md",
-    "Phronesis/projects/Syntopix-Core/Stubs/MemoryHolon.md",
-    "Phronesis/projects/Syntopix-Core/Stubs/Importer.md",
-    "Phronesis/projects/Syntopix-Core/Stubs/Holarchy_Graph.md",
-    "Phronesis/projects/Syntopix-Core/Stubs/Bayes.md",
-    "Phronesis/projects/Syntopix-Core/Canonical/Holarchy Index.md",
-    "Phronesis/projects/Syntopix-Core/Indexes/Syntopix Holarchy Index.md"
+    "Phronesis/projects/Syntopix-Core/Stubs/MemoryHolon.md"
   ]
 }

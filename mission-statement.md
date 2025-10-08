@@ -11,9 +11,9 @@ The Phronesis Projects is a nonprofit created after the 2024 election. It was on
 Our missions are implemented in appropriate ways to have the right impact for the right number of people at the right time for each of them.
 
 At this writing, we have three Projects in development:
-- The Agora: Delivered in person at community events.
-- Praxis: Online surveys returning research-based scores for practical wisdom.
-- Janus: An Obsidian vault for managing personal finance for Social Security Income recipients.
+- [[The Agora]]: Delivered in person at community events.
+- [[Praxis]]: Online surveys returning research-based scores for practical wisdom.
+- [[Janus]]: An Obsidian vault for managing personal finance for Social Security Income recipients.
 
 
 > Your Imaginary Friends
