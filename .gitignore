@@ -22,3 +22,7 @@ syncthing-*
 _site/
 .DS_Store
 Thumbs.db
+
+Phronesis/.obsidian/
+.stfolder
+syncthing-folder-*.txt
