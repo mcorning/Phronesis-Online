@@ -12,12 +12,12 @@ title: The Phronesis Project
 - 💜 Support our cause — Donations are tax-deductible See [[Donor Summary]] for details.
 - 🧠 Get involved — [Contact us](mailto:info@phronesisproject.org) to collaborate
 
-> “It’s amazing what we can accomplish when no one needs to take credit.”  
+> “It’s amazing what we can accomplish when no one needs to take credit.”
 > — Ronald Reagan
 
 ### Paperwork
-[[IRS Exemption Letter.pdf]]
-[[IRS EIN Letter.pdf]]
+[IRS Exemption Letter.pdf]
+[IRS EIN Letter.pdf]
 
 
 ---
