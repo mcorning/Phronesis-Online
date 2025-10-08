@@ -9,7 +9,7 @@ title: The Phronesis Project
 
 ### How You Can Help
 
-- 💜 Support our cause — Donations are tax-deductible See [[Donor Summary]] for details.
+- 💜 Support our cause — Donations are tax-deductible See [Donor Summary] for details.
 - 🧠 Get involved — [Contact us](mailto:info@phronesisproject.org) to collaborate
 
 > “It’s amazing what we can accomplish when no one needs to take credit.”
