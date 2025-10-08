@@ -18,6 +18,6 @@ At this writing, we have three Projects in development:
 	  An Obsidian vault for managing personal finance for Social Security Income recipients.
 
 
-> [!NOTE] Imaginary Friends
->
-> There is a place for artificial intelligence in each of these projects, and each one will show how they work and where they fit.
+<h3>Your Imaginary Friends</h3>
+
+There is a place for artificial intelligence in each of these projects, and each one will show how they work and where they fit.
