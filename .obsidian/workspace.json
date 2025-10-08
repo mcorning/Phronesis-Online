@@ -110,11 +110,22 @@
             "state": {
               "type": "file-tree-view",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "file-tree-view"
+            }
+          },
+          {
+            "id": "74098b79d11c9716",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
               "icon": "sheets-in-box",
               "title": "File Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -213,6 +224,7 @@
   },
   "active": "f2da82fb39b84974",
   "lastOpenFiles": [
+    "mission-statement.pdf",
     "Mission Statement.md",
     "mission-statement.md",
     "Untitled.md",
@@ -247,7 +259,6 @@
     "Phronesis/projects/Syntopix-Core/Canonical/Holarchy Index.md",
     "Phronesis/projects/Syntopix-Core/Indexes/Syntopix Holarchy Index.md",
     "Phronesis/projects/Syntopix-Core/Canonical/Clonon Index.md",
-    "Phronesis/projects/Syntopix-Core/Canonical/Collaboration Protocol.md",
-    "Phronesis/projects/Syntopix-Core/Canonical/Policies.md"
+    "Phronesis/projects/Syntopix-Core/Canonical/Collaboration Protocol.md"
   ]
 }
