@@ -18,6 +18,8 @@ At this writing, we have three Projects in development:
 	  An Obsidian vault for managing personal finance for Social Security Income recipients.
 
 
-> [!NOTE] Imaginary Friends
->
-> There is a place for artificial intelligence in each of these projects, and each one will show how they work and where they fit.
+> Your Imaginary Friends
+
+> There is a place for artificial intelligence in each of these projects, and each one will show how they work and where they fit to extend mental and technical capabilities.
+
+[Phronesis Project Mission Statement PDF](Mission%20Statement.pdf)
