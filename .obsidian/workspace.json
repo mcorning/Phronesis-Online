@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mission-statement.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "264fca79e8ebbc4e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "mission-statement.pdf"
+              },
+              "icon": "lucide-file-text",
               "title": "mission-statement"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,8 +137,7 @@
               "title": "File Tree"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,25 +234,28 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "f2da82fb39b84974",
+  "active": "264fca79e8ebbc4e",
   "lastOpenFiles": [
+    "I Have a Question Nr 1.md",
+    "I Have a Question Nr 1.pdf",
+    "2025-10-16 The Agora simple.md",
+    "2025-10-16 The Agora.pdf",
+    "The Agora.md",
+    "index.md",
+    "mission-statement.md",
+    "donate.html",
     "mission-statement.pdf",
     "Mission Statement.md",
-    "mission-statement.md",
-    "Untitled.md",
     "layouts/default.html",
     "layouts",
     "New folder",
-    "index.md",
     "docs/IRS EIN Letter.pdf",
     "docs/IRS Exemption Letter.pdf",
     "docs/Donor Summary.md",
     "docs",
     "A Manifesto.md",
     "Enter Here.md",
-    "Mission Statement.pdf",
     "150 by Christmas/Back Pain Hypothesis Journal – July 28, 2025.md",
-    "150 by Christmas",
     "Watson Memory Index.md",
     "The Imaginary Community.md",
     "README.md",
@@ -248,8 +263,6 @@
     "The Good Life.md",
     "Phronesis/Top Floor.md",
     "Phronesis/projects/The Rabbit Warren/An Education.md",
-    "Phronesis/projects/The Rabbit Warren",
-    "Phronesis/projects/New folder",
     "Phronesis/projects/Syntopix-Core/Stubs/UI_Policy.md",
     "Phronesis/projects/Syntopix-Core/Stubs/Syntopicon.md",
     "Phronesis/projects/Syntopix-Core/Stubs/MemoryHolon.md",
@@ -257,8 +270,6 @@
     "Phronesis/projects/Syntopix-Core/Stubs/Holarchy_Graph.md",
     "Phronesis/projects/Syntopix-Core/Stubs/Bayes.md",
     "Phronesis/projects/Syntopix-Core/Canonical/Holarchy Index.md",
-    "Phronesis/projects/Syntopix-Core/Indexes/Syntopix Holarchy Index.md",
-    "Phronesis/projects/Syntopix-Core/Canonical/Clonon Index.md",
-    "Phronesis/projects/Syntopix-Core/Canonical/Collaboration Protocol.md"
+    "Phronesis/projects/Syntopix-Core/Indexes/Syntopix Holarchy Index.md"
   ]
 }

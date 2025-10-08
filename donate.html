@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Phronesis Project — Donate</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <!-- Simple, readable styles -->
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 0; background:#f7f7f8; color:#111; }
+    header { padding: 32px 20px; background: #fff; box-shadow: 0 1px 0 rgba(0,0,0,.06); }
+    .wrap { max-width: 760px; margin: 0 auto; padding: 24px 20px; }
+    h1 { margin: 0 0 8px; font-size: 28px; }
+    p.lead { margin: 6px 0 0; color:#555; }
+    .grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit,minmax(180px,1fr)); margin: 24px 0; }
+    .card { background:#fff; border:1px solid #e5e7eb; border-radius: 16px; padding: 18px; }
+    .amt { font-size: 24px; margin: 0 0 4px; }
+    .sub { font-size: 12px; color:#666; margin-top: -2px; }
+    button { width:100%; border:0; border-radius: 12px; padding: 12px 14px; font-weight:600; cursor:pointer; }
+    button.primary { background:#111; color:#fff; }
+    .row { display:flex; gap:12px; }
+    footer { color:#777; font-size:12px; margin-top: 12px; }
+    a { color:#111; }
+  </style>
+  <script src="https://js.stripe.com/v3/"></script>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <h1>Support the Phronesis Project</h1>
+      <p class="lead">Your donation fuels ethical tech & civic education. Thank you. 🙏</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <!-- One-time tiers -->
+    <h2>One-time donation</h2>
+    <div class="grid">
+      <div class="card">
+        <p class="amt">$10</p>
+        <p class="sub">One-time</p>
+        <button class="primary" data-mode="payment" data-price="price_ONE_TIME_10">Donate $10</button>
+      </div>
+      <div class="card">
+        <p class="amt">$25</p>
+        <p class="sub">One-time</p>
+        <button class="primary" data-mode="payment" data-price="price_ONE_TIME_25">Donate $25</button>
+      </div>
+      <div class="card">
+        <p class="amt">$50</p>
+        <p class="sub">One-time</p>
+        <button class="primary" data-mode="payment" data-price="price_ONE_TIME_50">Donate $50</button>
+      </div>
+      <div class="card">
+        <p class="amt">$100</p>
+        <p class="sub">One-time</p>
+        <button class="primary" data-mode="payment" data-price="price_ONE_TIME_100">Donate $100</button>
+      </div>
+    </div>
+
+    <!-- Monthly tiers -->
+    <h2>Monthly supporters</h2>
+    <div class="grid">
+      <div class="card">
+        <p class="amt">$10</p>
+        <p class="sub">Monthly</p>
+        <button class="primary" data-mode="subscription" data-price="price_MONTHLY_10">Give $10/mo</button>
+      </div>
+      <div class="card">
+        <p class="amt">$25</p>
+        <p class="sub">Monthly</p>
+        <button class="primary" data-mode="subscription" data-price="price_MONTHLY_25">Give $25/mo</button>
+      </div>
+      <div class="card">
+        <p class="amt">$50</p>
+        <p class="sub">Monthly</p>
+        <button class="primary" data-mode="subscription" data-price="price_MONTHLY_50">Give $50/mo</button>
+      </div>
+    </div>
+
+    <footer>
+      <p>Prefer a different amount? We can add more tiers—or later swap this page for a custom-amount flow.</p>
+      <p><a href="/">← Back to Home</a></p>
+    </footer>
+  </main>
+
+  <script>
+    // 1) Replace with your Stripe PUBLISHABLE key (test first)
+    const stripe = Stripe("pk_test_REPLACE_ME"); // later: pk_live_...
+
+    // 2) Success/Cancel URLs must be same origin as this page (your GitHub Pages domain)
+    const SUCCESS_URL = "https://phronesisproject.org/thanks.html";
+    const CANCEL_URL  = "https://phronesisproject.org/donate.html";
+
+    async function go(e){
+      const btn = e.currentTarget;
+      const price = btn.dataset.price;
+      const mode  = btn.dataset.mode; // 'payment' (one-time) or 'subscription' (recurring)
+
+      btn.disabled = true;
+
+      const { error } = await stripe.redirectToCheckout({
+        mode,
+        lineItems: [{ price, quantity: 1 }],
+        successUrl: SUCCESS_URL,
+        cancelUrl: CANCEL_URL,
+        allowPromotionCodes: true
+      });
+
+      if (error) {
+        alert(error.message || "Something went wrong starting Checkout.");
+        btn.disabled = false;
+      }
+    }
+
+    document.querySelectorAll("button[data-price]").forEach(b => b.addEventListener("click", go));
+  </script>
+</body>
+</html>
