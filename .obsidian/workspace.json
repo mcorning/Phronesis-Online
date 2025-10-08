@@ -211,12 +211,16 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "f2da82fb39b84974",
+  "active": "dfcf9215f3afc6fc",
   "lastOpenFiles": [
+    "layouts/default.html",
+    "layouts",
+    "New folder",
+    "Mission Statement.md",
+    "Untitled.md",
     "index.md",
     "docs/IRS EIN Letter.pdf",
     "docs/IRS Exemption Letter.pdf",
-    "Mission Statement.md",
     "docs/Donor Summary.md",
     "docs",
     "A Manifesto.md",
@@ -244,9 +248,6 @@
     "Phronesis/projects/Syntopix-Core/Canonical/Clonon Index.md",
     "Phronesis/projects/Syntopix-Core/Canonical/Collaboration Protocol.md",
     "Phronesis/projects/Syntopix-Core/Canonical/Policies.md",
-    "Phronesis/projects/Syntopix-Core/Topiq-TopiqFitness.md",
-    "Phronesis/projects/Syntopix-Core/Topiq-Graph.html",
-    "Phronesis/projects/Syntopix-Core/Stubs",
-    "Phronesis/projects/Syntopix-Core/Indexes"
+    "Phronesis/projects/Syntopix-Core/Topiq-Graph.html"
   ]
 }
