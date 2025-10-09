@@ -4,7 +4,7 @@ title: The Phronesis Project
 ---
 
 
-# [The Phronesis Project](https://phronesisproject.org)
+## The Phronesis Project
 
 **A nonprofit initiative for ethical technology and civic education.** See our [Mission Statement](/mission-statement/) for our first three Projects.
 
@@ -12,7 +12,7 @@ title: The Phronesis Project
 
 ### How You Can Help
 
-- 💜 Support our cause — Donations are tax-deductible See [Donor Summary](/donor-summary.md) for details.
+- 💜 Support our cause — Donations are tax-deductible See [Donor Summary](/donor-summary/) for details.
 - 🧠 Get involved — [Contact us](mailto:info@phronesisproject.org) to collaborate
 
 > “It’s amazing what we can accomplish when no one needs to take credit.”

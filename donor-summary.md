@@ -1,6 +1,7 @@
 ---
 title: Donor Summary
 layout: default
+permalink: /donor-summary/
 ---
 
 ## What Our 509(a)(2) Status Means
