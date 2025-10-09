@@ -1,9 +1,9 @@
-
 ---
 layout: default
 title: Janus
 permalink: /janus/
 ---
+
 The Janus Project focuses on one critical challenge for human behavior: the wise use of money.
 
 The Janus Project's first focus is on a community especially challenged by money issues: Social Security Income recipients.

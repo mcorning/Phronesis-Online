@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agora.md",
+                "file": "Praxis.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Agora"
+              "title": "Praxis"
             }
           }
         ]
@@ -244,12 +244,12 @@
   },
   "active": "19c327476193f000",
   "lastOpenFiles": [
+    "Agora.md",
     "Janus.md",
     "Praxis.md",
     "mission-statement.md",
     "index.md",
     "donor-summary.md",
-    "Agora.md",
     "The.md",
     "Dev Notes.md",
     "Aristotle's Theory of Virtue.md",
