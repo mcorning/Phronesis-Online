@@ -6,7 +6,7 @@ In our work we focus on three attributes of human behavior:
  - Justice
 Together we hold that wisdom only comes in the effect of all three influences. Aristotle referred to this kind of wisdom as *phronesis*. And this is the foundation of the Phronesis Projects. Each Project shows how to use *phronesis* in three spheres of life:
 
-- civics in [[The Agora]]
+- civics in [[Agora]]
 - education (which we define as personal development) in [[Praxis]]
 - finance in [[Janus]]
 
