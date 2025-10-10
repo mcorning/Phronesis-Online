@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aristotle's Theory of Virtue.md",
-                "mode": "preview",
+                "file": "Agora.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Aristotle's Theory of Virtue"
+              "title": "Agora"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "File Tree"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,12 +183,14 @@
   },
   "active": "bbaf82fef5f2e5ac",
   "lastOpenFiles": [
+    "Praxis.md",
+    "agora 1.md",
+    "Untitled.md",
+    "Aristotle's Theory of Virtue.md",
     "docs/1023-EZ.pdf",
     "index.md",
     "Agora.md",
-    "Praxis.md",
     "mission-statement.md",
-    "Aristotle's Theory of Virtue.md",
     "docs/IRS EIN Letter.pdf",
     "Janus.md",
     "donor-summary.md",
@@ -217,7 +218,6 @@
     "The Imaginary Community.md",
     "README.md",
     "Context Switching.md",
-    "The Good Life.md",
-    "Phronesis/Top Floor.md"
+    "The Good Life.md"
   ]
 }
