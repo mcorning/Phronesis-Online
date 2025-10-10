@@ -3,6 +3,18 @@ layout: default
 title: Janus
 permalink: /janus/
 ---
+## The Janus Project
+
+The goal of the Janus Project is to live well and to die with a clear conscience.
+
+In  *Book I* of Plato’s **Republic**, Cephalus gives a short but revealing answer to Socrates about what it means to be a *good rich man*.
+
+When Socrates visits Cephalus—an elderly, wealthy arms manufacturer—he asks what the greatest advantage of wealth is. Cephalus answers (around **Republic 331a–331d**) that:
+
+> **The best thing about being rich is that it allows a person to live justly**—to tell the truth, to pay one’s debts, and to face death without fear or regret.
+
+![[our-janus.png]]
+
 <blockquote class="callout pronunciation">
   <h4><em>Janus</em></h4>
   <p>

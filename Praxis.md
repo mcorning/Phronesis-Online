@@ -3,6 +3,10 @@ layout: default
 title: Praxis
 permalink: /praxis/
 ---
+## The Praxis Project
+The **Praxis Project’s emphasis is a flourishing society.**
+
+![[The School of Athens.png]]
 <blockquote class="callout pronunciation">
   <h4><em>Praxis</em></h4>
   <p>

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agora.md",
-                "mode": "preview",
+                "file": "Praxis.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Agora"
+              "title": "Praxis"
             }
           }
         ]
@@ -183,10 +183,18 @@
   },
   "active": "bbaf82fef5f2e5ac",
   "lastOpenFiles": [
-    "images/The School of Athens.png",
     "Agora.md",
-    "images",
+    "Janus.md",
     "Praxis.md",
+    "Janus 1.md",
+    "images/our-janus.png",
+    "images/Our Janus 2.png",
+    "images/Janus.png",
+    "images/Pasted image 20251010135620.png",
+    "images/Janus2.png",
+    "images/The School of Athens.png",
+    "images/Pericles Oration.png",
+    "images",
     "agora 1.md",
     "Untitled.md",
     "Aristotle's Theory of Virtue.md",
@@ -194,7 +202,6 @@
     "index.md",
     "mission-statement.md",
     "docs/IRS EIN Letter.pdf",
-    "Janus.md",
     "donor-summary.md",
     "The.md",
     "Dev Notes.md",
@@ -217,7 +224,6 @@
     "150 by Christmas/Back Pain Hypothesis Journal – July 28, 2025.md",
     "Watson Memory Index.md",
     "The Imaginary Community.md",
-    "README.md",
-    "Context Switching.md"
+    "README.md"
   ]
 }

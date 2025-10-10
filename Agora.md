@@ -3,10 +3,10 @@ layout: default
 title: The Agora
 permalink: /agora/
 ---
-
-![[The School of Athens.png]]
-
+## The Agora Project
 The **Agora’s emphasis is the cultivation of collective intelligence grounded in trust, truth, and practical wisdom.**
+
+![[Pericles Oration.png]]
 
 <blockquote class="callout pronunciation">
   <h4><em>Agora</em></h4>
