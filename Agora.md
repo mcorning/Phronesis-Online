@@ -4,9 +4,12 @@ title: The Agora
 permalink: /agora/
 ---
 ## The Agora Project
-The **Agora’s emphasis is the cultivation of collective intelligence grounded in trust, truth, and practical wisdom.**
 
-![[Pericles Oration.png]]
+The Agora Projects goal is the cultivation of collective intelligence grounded in truth, trust, and practical wisdom.
+
+---
+### Pericles Oration
+![Pericles Oration](images/pericles-oration.png)
 
 <blockquote class="callout pronunciation">
   <h4><em>Agora</em></h4>
