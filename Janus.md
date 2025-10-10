@@ -11,7 +11,10 @@ In  *Book I* of Plato’s **Republic**, Cephalus gives a short but revealing ans
 
 When Socrates visits Cephalus—an elderly, wealthy arms manufacturer—he asks what the greatest advantage of wealth is. Cephalus answers (around **Republic 331a–331d**) that:
 
-> **The best thing about being rich is that it allows a person to live justly**—to tell the truth, to pay one’s debts, and to face death without fear or regret.
+<blockquote>
+ <em>The best thing about being rich is that it allows a person to live justly</em>—to tell the truth, to pay one’s debts, and to face death without fear or regret.
+</blockquote>
+
 ---
 ### Roman god of the household
 ![Janus](images/our-janus.png)

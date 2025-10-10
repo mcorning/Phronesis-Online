@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agora.md",
+                "file": "Janus.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Agora"
+              "title": "Janus"
             }
           }
         ]
@@ -183,8 +183,8 @@
   },
   "active": "bbaf82fef5f2e5ac",
   "lastOpenFiles": [
-    "images/pericles-oration.png",
     "Agora.md",
+    "images/pericles-oration.png",
     "Praxis.md",
     "images/school-of-athens.png",
     "Janus.md",
