@@ -1,3 +1,8 @@
+---
+layout: default
+title: Aristotle's Theory of Virtue
+permalink: /theory/
+---
 In the Nicomachean Ethics, Aristotle explores goodness, virtue, habit, and happiness. Indeed, some hold that it's Aristotle's definition of happiness cited in the Preamble to the US Constitution.
 
 In our work we focus on three attributes of human behavior:

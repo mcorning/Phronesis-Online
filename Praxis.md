@@ -5,7 +5,7 @@ permalink: /praxis/
 ---
 
 ## Context
-The Praxis Project interacts with all the other Phronesis Projects; viz., [Agora](/agora/) and [Janus](/janus/) projects. At the base of all three projects is *phronesis*, Greek for practical wisdom. There is a different source of insight that backs up phronesis, but the goals of the Projects are all the same: inform action with phronesis.
+The Praxis Project interacts with all the other Phronesis Projects; viz., [Agora](/agora/) and [Janus](/janus/) projects. At the base of all three projects is *phronesis*, Greek for practical wisdom. There is a [different source of insight](/theory/) that backs up phronesis, but the goals of the Projects are all the same: inform action with phronesis.
 
 Praxis derives from the Greek for "practical wisdom in action."
 
