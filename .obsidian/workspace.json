@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Agora.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -183,13 +183,15 @@
   },
   "active": "bbaf82fef5f2e5ac",
   "lastOpenFiles": [
+    "images/The School of Athens.png",
+    "Agora.md",
+    "images",
     "Praxis.md",
     "agora 1.md",
     "Untitled.md",
     "Aristotle's Theory of Virtue.md",
     "docs/1023-EZ.pdf",
     "index.md",
-    "Agora.md",
     "mission-statement.md",
     "docs/IRS EIN Letter.pdf",
     "Janus.md",
@@ -209,7 +211,6 @@
     "donate.html",
     "Mission Statement.md",
     "layouts/default.html",
-    "layouts",
     "docs/Donor Summary.md",
     "A Manifesto.md",
     "Enter Here.md",
@@ -217,7 +218,6 @@
     "Watson Memory Index.md",
     "The Imaginary Community.md",
     "README.md",
-    "Context Switching.md",
-    "The Good Life.md"
+    "Context Switching.md"
   ]
 }
