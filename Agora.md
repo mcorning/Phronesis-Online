@@ -6,7 +6,7 @@ permalink: /agora/
 The **Agora’s emphasis is the cultivation of collective intelligence grounded in trust, truth, and practical wisdom.**
 
 <blockquote class="callout pronunciation">
-  <h4>Pronunciation of <em>Agora</em></h4>
+  <h4><em>Agora</em></h4>
   <p>
     The emphasis in <strong>“Agora”</strong> is on the <strong>first syllable</strong>:<br>
     <strong>Á-go-ra</strong> — <code>/ˈæɡərə/</code><br>

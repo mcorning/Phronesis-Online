@@ -4,7 +4,7 @@ title: Praxis
 permalink: /praxis/
 ---
 <blockquote class="callout pronunciation">
-  <h4>Pronunciation of <em>Praxis</em></h4>
+  <h4><em>Praxis</em></h4>
   <p>
     The emphasis in <strong>“Praxis”</strong> is on the <strong>first syllable</strong>:<br>
     <strong>Prax-is</strong> — <code>/ˈpræksɪs/</code><br>
