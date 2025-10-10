@@ -19,9 +19,9 @@ title: The Phronesis Project
 > — Ronald Reagan
 
 ### Paperwork
-### Paperwork
-[IRS Exemption Letter](docs/IRS%20Exemption%20Letter.pdf) ·
-[IRS EIN Letter](docs/IRS%20EIN%20Letter.pdf)
+- [IRS Exemption Letter](docs/IRS%20Exemption%20Letter.pdf)
+- [IRS EIN Letter](docs/IRS%20EIN%20Letter.pdf)
+- [IRS Form 1023-EZ](docs/1023-EZ.pdf)
 
 
 

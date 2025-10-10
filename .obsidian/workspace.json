@@ -11,14 +11,12 @@
             "id": "bbaf82fef5f2e5ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "mission-statement.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/1023-EZ.pdf"
               },
-              "icon": "lucide-file",
-              "title": "mission-statement"
+              "icon": "lucide-file-text",
+              "title": "1023-EZ"
             }
           }
         ]
@@ -184,14 +182,14 @@
   },
   "active": "bbaf82fef5f2e5ac",
   "lastOpenFiles": [
+    "index.md",
+    "Agora.md",
+    "Praxis.md",
+    "mission-statement.md",
     "docs/1023-EZ.pdf",
     "Aristotle's Theory of Virtue.md",
     "docs/IRS EIN Letter.pdf",
-    "mission-statement.md",
-    "Agora.md",
-    "Praxis.md",
     "Janus.md",
-    "index.md",
     "donor-summary.md",
     "The.md",
     "Dev Notes.md",
@@ -209,7 +207,6 @@
     "Mission Statement.md",
     "layouts/default.html",
     "layouts",
-    "New folder",
     "docs/Donor Summary.md",
     "A Manifesto.md",
     "Enter Here.md",

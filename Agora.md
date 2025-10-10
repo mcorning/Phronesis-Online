@@ -3,7 +3,6 @@ layout: default
 title: The Agora
 permalink: /agora/
 ---
-
 The **Agora’s emphasis is the cultivation of collective intelligence grounded in trust, truth, and practical wisdom.**
 
 <blockquote class="callout pronunciation">
