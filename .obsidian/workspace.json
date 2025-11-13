@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Janus.md",
-                "mode": "source",
-                "source": true
+                "file": "mission-statement.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Janus"
+              "title": "mission-statement"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Emergent community",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,11 +183,33 @@
   },
   "active": "bbaf82fef5f2e5ac",
   "lastOpenFiles": [
-    "Agora.md",
-    "images/pericles-oration.png",
+    "mission-statement.pdf",
     "Praxis.md",
-    "images/school-of-athens.png",
+    "docs/IRS Exemption Letter.pdf",
+    "mission-statement.md",
+    "Canvases/Untitled.canvas",
+    "aoip-test-2025-10-15-day1.md",
+    "//aoip-test-2025-10-15-day1.md",
+    "Agora/Emergents/The Nature of Emergents.md",
+    "Canvases",
+    "Agora/Agora.md",
+    "Agora/Pericles oration for fallen Athenian defenders.md",
+    "images/Pasted image 20251016134512.png",
+    "Agora/Texts/pericles-funeral-oration.md",
+    "Agora/Emergents/pericles.md",
+    "Pericles Funeral Oration.md",
+    "Agora/Emergents",
+    "Agora/Texts",
+    "Agora",
+    "Agora/Agora.pdf",
+    "Benevity/Projects.md",
+    "Benevity/Volunteering.md",
+    "images/Pasted image 20251016134005.png",
+    "index.md",
+    "Benevity",
     "Janus.md",
+    "images/pericles-oration.png",
+    "images/school-of-athens.png",
     "Janus 1.md",
     "images/our-janus.png",
     "images/Our Janus 2.png",
@@ -196,34 +218,15 @@
     "images/Janus2.png",
     "images",
     "agora 1.md",
-    "Untitled.md",
     "Aristotle's Theory of Virtue.md",
     "docs/1023-EZ.pdf",
-    "index.md",
-    "mission-statement.md",
-    "docs/IRS EIN Letter.pdf",
     "donor-summary.md",
     "The.md",
     "Dev Notes.md",
     "Holon_Tensor_Index.md",
     "I Have a Question Nr 2.md",
-    "I Have a Question Nr 2.pdf",
     "I Have a Question.md",
     "I Have a Question Nr 1.md",
-    "I Have a Question Nr 1.1.pdf",
-    "mission-statement.pdf",
-    "I Have a Question Nr 1.pdf",
-    "2025-10-16 The Agora simple.md",
-    "2025-10-16 The Agora.pdf",
-    "donate.html",
-    "Mission Statement.md",
-    "layouts/default.html",
-    "docs/Donor Summary.md",
-    "A Manifesto.md",
-    "Enter Here.md",
-    "150 by Christmas/Back Pain Hypothesis Journal – July 28, 2025.md",
-    "Watson Memory Index.md",
-    "The Imaginary Community.md",
-    "README.md"
+    "2025-10-16 The Agora simple.md"
   ]
 }

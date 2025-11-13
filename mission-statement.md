@@ -8,12 +8,13 @@ permalink: /mission-statement/
 
 The Phronesis Projects is a nonprofit created after the 2024 election. It was one person's answer to a perceived crisis for the American democracy.
 
-Our missions are implemented in appropriate ways to have the right impact for the right number of people at the right time for each of them.
+Our mission projects are implemented in appropriate ways to have the right impact for the right number of people at the right time for each of them. Each project has one thing in common: they illustrate the power of practical wisdom, Phronesis.
 
-At this writing, we have three Projects in development:
+At this writing, we have four Projects in development:
 - [The Agora](/agora/): Delivered in person at community events.
 - [Praxis](/praxis/): Online surveys returning research-based scores for practical wisdom.
 - [Janus](/janus/): An Obsidian vault for managing personal finance for Social Security Income recipients.
+- Prometheus: An emerging Obsidian vault where we share an emerging culture of wildfire aware and mitigation, the kind of practical wisdom that helps us all be safer together.
 
 
 > Your Imaginary Friends

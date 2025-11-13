@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"69a9713cb3a16976","type":"text","text":"Syntopolis\nA Rabbit Warren\n","x":52,"y":-340,"width":250,"height":114},
+		{"id":"cdf9be630a62cee6","type":"text","text":"Lyceum\nThe Emergent Community","x":-161,"y":-160,"width":261,"height":110},
+		{"id":"e83dcdcabbd4a6db","type":"text","text":"Agora\nA burrow","x":240,"y":-160,"width":250,"height":110},
+		{"id":"ca1c820a00bbfce2","type":"text","text":"Emergent","x":-398,"y":-135,"width":119,"height":60},
+		{"id":"697c35696b9493c8","type":"text","text":"Emergent","x":-240,"y":20,"width":119,"height":60},
+		{"id":"37585968e1892a63","type":"text","text":"Emergent\n","x":52,"y":20,"width":119,"height":60}
+	],
+	"edges":[
+		{"id":"f38fdb5723732e13","fromNode":"69a9713cb3a16976","fromSide":"bottom","toNode":"cdf9be630a62cee6","toSide":"top"},
+		{"id":"9efe8255ec5a4e26","fromNode":"69a9713cb3a16976","fromSide":"bottom","toNode":"e83dcdcabbd4a6db","toSide":"top"},
+		{"id":"7582030356c6feea","fromNode":"cdf9be630a62cee6","fromSide":"right","toNode":"e83dcdcabbd4a6db","toSide":"left","fromEnd":"arrow"},
+		{"id":"eec1319baac7973d","fromNode":"cdf9be630a62cee6","fromSide":"bottom","toNode":"697c35696b9493c8","toSide":"right"},
+		{"id":"261e86186872c1bd","fromNode":"cdf9be630a62cee6","fromSide":"left","toNode":"ca1c820a00bbfce2","toSide":"right"},
+		{"id":"5462ebbb896b4329","fromNode":"cdf9be630a62cee6","fromSide":"bottom","toNode":"37585968e1892a63","toSide":"left"},
+		{"id":"95b939427b08d336","fromNode":"697c35696b9493c8","fromSide":"bottom","toNode":"37585968e1892a63","toSide":"bottom","fromEnd":"arrow"}
+	]
+}
