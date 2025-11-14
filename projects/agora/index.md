@@ -9,7 +9,7 @@ permalink: /projects/agora/
 The Agora Projects goal is the cultivation of collective intelligence grounded in truth, trust, and practical wisdom.
 
 ---
-### [Pericles’ oration for fallen Athenian defenders](pericles-funeral-oration.md)
+### [Pericles’ oration for fallen Athenian defenders](texts/pericles-funeral-oration)
 
 ![Pericles Oration](/images/pericles-oration.png)
 
