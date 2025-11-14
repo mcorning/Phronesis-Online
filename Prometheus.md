@@ -1,4 +1,8 @@
-# Checklists & Public Documents
+---
+layout: default
+title: Prometheus
+permalink: /checklists/
+---# Checklists & Public Documents
 
 A unified index of all Prometheus and wildfire-readiness materials currently available in the repository.
 
