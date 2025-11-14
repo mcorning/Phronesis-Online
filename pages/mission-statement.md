@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Mission Statement
-permalink: /pages/mission-statement/
+permalink: /mission-statement/
 ---
+
 ## The Phronesis Projects
 ### Mission Statement
 
