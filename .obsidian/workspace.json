@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mission-statement.md",
+                "file": "index.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mission-statement"
+              "title": "index"
             }
           }
         ]
@@ -183,10 +183,11 @@
   },
   "active": "bbaf82fef5f2e5ac",
   "lastOpenFiles": [
+    "checklists.md",
+    "mission-statement.md",
     "mission-statement.pdf",
     "Praxis.md",
     "docs/IRS Exemption Letter.pdf",
-    "mission-statement.md",
     "Canvases/Untitled.canvas",
     "aoip-test-2025-10-15-day1.md",
     "//aoip-test-2025-10-15-day1.md",
