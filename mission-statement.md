@@ -14,7 +14,7 @@ At this writing, we have four Projects in development:
 - [The Agora](/agora/): Delivered in person at community events.
 - [Praxis](/praxis/): Online surveys returning research-based scores for practical wisdom.
 - [Janus](/janus/): An Obsidian vault for managing personal finance for Social Security Income recipients.
-- Prometheus: An emerging Obsidian vault where we share an emerging culture of wildfire aware and mitigation, the kind of practical wisdom that helps us all be safer together.
+- [Prometheus](checklists/): An emerging Obsidian vault where we share an emerging culture of wildfire aware and mitigation, the kind of practical wisdom that helps us all be safer together.
 
 
 > Your Imaginary Friends
