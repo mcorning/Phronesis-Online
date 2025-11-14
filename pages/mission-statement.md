@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Mission Statement
-permalink: /mission-statement/
+permalink: /pages/mission-statement/
 ---
-
 ## The Phronesis Projects
 ### Mission Statement
 
@@ -22,4 +21,4 @@ At this writing, we have four Projects in development:
 
 > There is a place for artificial intelligence in each of these projects, and each one will show how they work and where they fit to extend mental and technical capabilities.
 
-Download [Phronesis Project Mission Statement PDF](/pages/mission-statement.pdf)
+Download [Phronesis Project Mission Statement PDF](/mission-statement.pdf)
