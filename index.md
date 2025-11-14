@@ -14,9 +14,9 @@ title: The Phronesis Project
 
 [Janus](/projects/janus/)
 
-[Praxis](/projects/praxis/praxis/)
+[Praxis](/projects/praxis/)
 
-[Prometheus](/projects/prometheus/prometheus)
+[Prometheus](/projects/prometheus/)
 
 
 
