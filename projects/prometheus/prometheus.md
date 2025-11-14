@@ -12,11 +12,11 @@ A unified index of all Prometheus and wildfire-readiness materials currently ava
 
 ## Prometheus Public Documents
 
-- [Prometheus Contact Card](/projects/prometheus//projects/prometheus/checklists//prometheus_contact_card.pdf)
-- [Prometheus Elevator Pitch](/projects/prometheus//projects/prometheus/checklists//prometheus_elevator_pitch.md)
-- [Prometheus Innovations Sheet](/projects/prometheus//projects/prometheus/checklists//Prometheus_Innovations_Sheet.md/)
-- [Prometheus Public One-Pager](/projects/prometheus/checklists//Prometheus_Public_OnePager.md/)
-- [Prometheus Triad + Webpage Overview](/projects/prometheus/checklists//Prometheus_Triad_and_Webpage.md/)
+- [Prometheus Contact Card](/projects/prometheus/checklists//prometheus_contact_card)
+- [Prometheus Elevator Pitch](/projects/prometheus/checklists//prometheus_elevator_pitch)
+- [Prometheus Innovations Sheet](/projects/prometheus/checklists/Prometheus_Innovations_Sheet)
+- [Prometheus Public One-Pager](/projects/prometheus/checklists/Prometheus_Public_OnePager)
+- [Prometheus Triad + Webpage Overview](/projects/prometheus/checklists/Prometheus_Triad_and_Webpage)
 
 ## Wildfire & Home Hardening
 

@@ -10,11 +10,11 @@ title: The Phronesis Project
 **A nonprofit initiative for ethical technology and civic education.** See our [Mission Statement](/mission-statement/) justifying our first four Projects.
 
 
-[Agora](/projects/agora/agora)
+[Agora](/projects/agora/)
 
-[Janus](/projects/janus/janus)
+[Janus](/projects/janus/)
 
-[Praxis](/projects/praxis/praxis)
+[Praxis](/projects/praxis/praxis/)
 
 [Prometheus](/projects/prometheus/prometheus)
 
