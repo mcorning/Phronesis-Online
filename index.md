@@ -31,7 +31,7 @@ title: The Phronesis Project
 ### Paperwork
 - [IRS Exemption Letter](/docs/irs-exemption-letter.pdf)
 - [IRS EIN Letter](/docs/irs-ein-letter.pdf)
-- [IRS Form 1023-EZ](/docs/1023-ez.pdf)
+- [IRS Form 1023-EZ](/docs/1023-EZ.pdf)
 
 
 
