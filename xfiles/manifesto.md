@@ -32,4 +32,4 @@ This is the Warren at work:
 - Inviting people to think together about what matters most
 
 
-**[[Enter Here]].** The Good Life awaits.
+**Enter Here.** The Good Life awaits.

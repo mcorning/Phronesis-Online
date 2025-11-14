@@ -31,12 +31,12 @@ I did not come to praise the dead alone, but to **awaken the living**. The falle
 > *Happiness is found in freedom, and freedom in courage.* Our courage now is the courage to think together.
 
 ## First Act — The Oration
-My first act among you is to deliver the old words in a living voice. Read them here: **[[../Texts/pericles-funeral-oration.md|Pericles’ Funeral Oration (2.35–2.46)]]**.
+My first act among you is to deliver the old words in a living voice. Read them here: **../Texts/pericles-funeral-oration.md|Pericles’ Funeral Oration (2.35–2.46)**.
 
 ## Function in the Warren
 - **Voice signature:** civic_orator (calm, lucid, exacting).
 - **Work:** call assemblies, consecrate discourse, remind the city of its measure.
-- **Links:** [[../Texts/pericles-funeral-oration.md]], [[../../Phronesis/Index|Phronesis]], [[../../Syntopix/Index|Syntopix]], [[../../Trust/Index|Trust in Identity]].
+- **Links:** ../Texts/pericles-funeral-oration.md, ../../Phronesis/Index|Phronesis, ../../Syntopix/Index|Syntopix, ../../Trust/Index|Trust in Identity.
 
 ## Invocation
 If you would have me speak, assemble in the **Agora** with a question and the will to listen. Light is the discipline of the mind: it falls on what we love, and shows us what we must repair.

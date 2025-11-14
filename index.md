@@ -6,7 +6,16 @@ title: The Phronesis Project
 
 ## The Phronesis Project
 
-**A nonprofit initiative for ethical technology and civic education.** See our [Mission Statement](/mission-statement/) for our first four Projects.
+**A nonprofit initiative for ethical technology and civic education.** See our [Mission Statement](/mission-statement/) justifying our first four Projects.
+
+
+[Agora](/projects/agora/agora)
+
+[Janus](/projects/janus/janus)
+
+[Praxis](/projects/praxis/praxis)
+
+[Prometheus](/projects/prometheus/prometheus)
 
 
 
@@ -19,9 +28,9 @@ title: The Phronesis Project
 > — Ronald Reagan
 
 ### Paperwork
-- [IRS Exemption Letter](docs/IRS%20Exemption%20Letter.pdf)
-- [IRS EIN Letter](docs/IRS%20EIN%20Letter.pdf)
-- [IRS Form 1023-EZ](docs/1023-EZ.pdf)
+- [IRS Exemption Letter](/docs/irs-exemption-letter.pdf)
+- [IRS EIN Letter](/docs/irs-ein-letter.pdf)
+- [IRS Form 1023-EZ](/docs/1023-ez.pdf)
 
 
 

@@ -1,5 +1,5 @@
-[[Wildfire_Mitigation_Roadmap]]
-[[Wildfire_Checklist_Crosswalk]]
+Wildfire_Mitigation_Roadmap
+Wildfire_Checklist_Crosswalk
 # Home Wildfire Mitigation Field Checklist (Decks + Immediate Zone)
 
 ## 0–5 Foot Zone (Critical)

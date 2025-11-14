@@ -5,8 +5,8 @@
 Provide a clear, sequenced plan that aligns Allstate, County WUI, NFPA 1144, and IBHS/CalFire standards. This roadmap is presentation-ready for Commissioners, insurers, and neighbors.
 
 ---
-[[Wildfire_Deck_Checklist]]
-[[Wildfire_Checklist_Crosswalk]]
+[Wildfire_Deck_Checklist](Wildfire_Deck_Checklist)
+[Wildfire_Checklist_Crosswalk](Wildfire_Checklist_Crosswalk)
 # 1. Immediate Actions (0–14 Days)
 
 ## A. Deck-to-Wall Flashing

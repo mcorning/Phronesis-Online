@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Praxis
-permalink: /praxis/
+permalink: /projects/praxis/
 ---
 ## The Praxis Project
 The Praxis Project’s emphasis is a flourishing society where every citizen lives a *Good Life*.
 
 ---
 ### The School of Athens
-![The School of Athens](images/school-of-athens.png)
+![The School of Athens](/images/school-of-athens.png)
 
 <blockquote class="callout pronunciation">
   <h4><em>Praxis</em></h4>

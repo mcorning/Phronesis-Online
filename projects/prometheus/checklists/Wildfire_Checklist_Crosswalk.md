@@ -3,8 +3,8 @@ title: Wildfire Checklist Crosswalk
 type: crosswalk
 notes: "Mark which sources mention each IBHS item. Use tags: [Allstate], [SFD], [Firewise]."
 ---
-[[Wildfire_Mitigation_Roadmap]]
-[[Wildfire_Deck_Checklist]]
+[Wildfire_Mitigation_Roadmap](Wildfire_Mitigation_Roadmap)
+[Wildfire_Deck_Checklist](Wildfire_Deck_Checklist)
 
 | Item | IBHS Section | Allstate | SFD | Firewise | Evidence |
 |------|--------------|----------|-----|----------|----------|

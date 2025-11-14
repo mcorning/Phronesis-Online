@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Janus
-permalink: /janus/
+permalink: /projects/janus/
 ---
 ## The Janus Project
 
@@ -17,7 +17,7 @@ When Socrates visits Cephalus—an elderly, wealthy arms manufacturer—he asks 
 
 ---
 ### Roman god of the household
-![Janus](images/our-janus.png)
+![Janus](/images/our-janus.png)
 
 
 <blockquote class="callout pronunciation">
