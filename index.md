@@ -7,7 +7,7 @@ title: The Phronesis Project
 ## The Phronesis Project
 ![alt text](</images/phronesis_logo_128.png>)
 
-**A nonprofit initiative for ethical technology and civic education.** See our [Mission Statement](/mission-statement/) justifying our first four Projects.
+**A nonprofit initiative for ethical technology and civic education.** See our [Mission Statement](/pages/mission-statement/) justifying our first four Projects.
 
 
 [Agora](/projects/agora/)
@@ -22,7 +22,7 @@ title: The Phronesis Project
 
 ### How You Can Help
 
-- 💜 Support our cause — Donations are tax-deductible See [Donor Summary](/donor-summary/) for details.
+- 💜 Support our cause — Donations are tax-deductible See [Donor Summary](/pages/donor-summary/) for details.
 - 🧠 Get involved — [Contact us](mailto:info@phronesisproject.org) to collaborate
 
 > “It’s amazing what we can accomplish when no one needs to take credit.”
