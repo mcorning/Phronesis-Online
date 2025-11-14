@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Prometheus – Wildfire Readiness
-permalink: /Prometheus/
+permalink: /projects/prometheus/
 ---
 
 # Prometheus: Checklists & Public Documents

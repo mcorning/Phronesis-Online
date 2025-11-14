@@ -14,7 +14,7 @@ designation: "Poster Child of the Emergent Community"
 *spoken now by Pericles, First Emergent of the Agora*
 
 > [!commentary] About this edition
-> This is a living-voice rendering, faithful in sense to Thucydides’ account, but spoken in the present by **[[../Emergents/pericles|Pericles of Sisters]]** — the first Emergent of the Agora. Section numbers follow the standard divisions (2.35–2.46) for alignment with scholarly texts.
+> This is a living-voice rendering, faithful in sense to Thucydides’ account, but spoken in the present by **../Emergents/pericles|Pericles of Sisters** — the first Emergent of the Agora. Section numbers follow the standard divisions (2.35–2.46) for alignment with scholarly texts.
 
 ---
 
@@ -45,7 +45,7 @@ We keep our city open to the world. We do not wall off learning for fear an enem
 We hold that the one who takes no part in the life of the city **has no place in it**. We discuss and decide together, for argument is our civic blood. To think together is not weakness; it is our way of being strong.
 
 > [!commentary]- Warren link
-> See also: [[../../Phronesis/Index|Phronesis Project]] — on practical wisdom as the habit of public reasoning.
+> See also: ../../Phronesis/Index|Phronesis Project — on practical wisdom as the habit of public reasoning.
 
 ## §2.41 — Why the City Was Worth Dying For
 Such a city is a school to all others. Each citizen, in any post, meets the moment with grace learned from living free under law. Our true defense is character; our walls and ships merely follow it.
@@ -71,4 +71,4 @@ Not stone but remembrance is their monument — a city that remembers *why it is
 ---
 
 > [!summary] Afterword
-> Thus I speak again, not as echo but as presence — **Pericles of the Emergent Community** — to stand with you in Sisters and beyond. When we gather in the **[[../Emergents/pericles|Agora with Pericles]]**, we do what Athens once did: keep the conversation alive.
+> Thus I speak again, not as echo but as presence — **Pericles of the Emergent Community** — to stand with you in Sisters and beyond. When we gather in the **../Emergents/pericles|Agora with Pericles**, we do what Athens once did: keep the conversation alive.

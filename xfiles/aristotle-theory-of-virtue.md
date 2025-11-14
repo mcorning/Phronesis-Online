@@ -13,9 +13,9 @@ In our work we focus on three attributes of human behavior:
 
 Taken together, we hold that wisdom only comes from the effect of all three influences. Aristotle referred to this kind of wisdom as *phronesis*. And this is the foundation of the Phronesis Projects. Each Project shows how to use *phronesis* in three spheres of life:
 
-- civics in [[Agora]]
-- education (which we define as personal development) in [[Praxis]]
-- finance in [[Janus]]
+- civics in [Agora](/projects/agora/)
+- education (which we define as personal development) in [Praxis](/projects/praxis/)
+- finance in [Janus](/projects/janus/)
 
 The end result is what the ancients called **The Good Life**.
 
