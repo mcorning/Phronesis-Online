@@ -5,6 +5,7 @@ title: The Phronesis Project
 
 
 ## The Phronesis Project
+![alt text](</images/phronesis_logo_128.png>)
 
 **A nonprofit initiative for ethical technology and civic education.** See our [Mission Statement](/mission-statement/) justifying our first four Projects.
 
