@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5cfec9fe8269d108",
+        "id": "2a62f1e66cfd22c8",
         "type": "tabs",
         "children": [
           {
-            "id": "d83c9eb0b51b91e5",
+            "id": "73088ddf1a823646",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "index"
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 307.5
   },
   "right": {
     "id": "d8b6ea7064188ce5",
@@ -181,10 +181,23 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "d83c9eb0b51b91e5",
+  "active": "73088ddf1a823646",
   "lastOpenFiles": [
-    "mission-statement 1.md",
+    "docs/ARTICLES-OF-INCORPORATION.pdf",
     "index.md",
+    "docs/ARTICLES-OF-INCORPORATION.pdf.md",
+    "docs/ARTICLES.md",
+    "docs/1023-EZ.pdf",
+    "docs/Phronesis-Initial-Organizational-Resolution.md",
+    "docs/Phronesis-Conflict-of-Interest-Policy.md",
+    "docs/Phronesis-Bylaws.md",
+    "docs/~$ronesis_initial_resolution.docx",
+    "docs/phronesis_conflict_policy.docx",
+    "docs/phronesis_initial_resolution.docx",
+    "docs/phronesis_bylaws.docx",
+    "docs/SOS - Corporation - Business Entity Filing Records - 244123691.PDF.crdownload",
+    "docs/irs-ein-letter.pdf",
+    "mission-statement 1.md",
     "Holon_Tensor_Index.md",
     "Agora/Emergents/The Nature of Emergents.md",
     "Agora/Emergents/pericles.md",
@@ -205,22 +218,8 @@
     "Checklists/Wildfire_Checklist_Crosswalk.md",
     "Checklists/Updated_Roadmap.md",
     "Checklists/Updated_Checklist.md",
-    "Checklists/Sisters_Fire_Home_Ignition_Zone_Checklist.md",
-    "Checklists/Prometheus_Triad_and_Webpage.md",
-    "Checklists/Prometheus_Public_OnePager.md",
-    "Checklists/Prometheus_Innovations_Sheet.md",
-    "Checklists/prometheus_elevator_pitch.md",
     "Checklists/prometheus_contact_card.pdf",
-    "Checklists/prometheus_contact_card.md",
-    "Checklists",
-    "mission-statement.pdf",
-    "docs/IRS Exemption Letter.pdf",
-    "Canvases",
     "images/Pasted image 20251016134512.png",
-    "Agora/Emergents",
-    "Agora/Texts",
-    "Agora",
-    "Agora/Agora.pdf",
     "images/Pasted image 20251016134005.png",
     "images/pericles-oration.png",
     "images/school-of-athens.png",

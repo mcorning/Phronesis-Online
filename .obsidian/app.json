@@ -9,5 +9,6 @@
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "images",
-  "promptDelete": false
+  "promptDelete": false,
+  "readableLineLength": false
 }
