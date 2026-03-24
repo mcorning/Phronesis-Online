@@ -11,14 +11,12 @@
             "id": "73088ddf1a823646",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": true
+                "file": "docs/Articles-of-Incorporation.pdf"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-file-text",
+              "title": "Articles-of-Incorporation"
             }
           }
         ]
@@ -88,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 524.5
   },
   "right": {
     "id": "d8b6ea7064188ce5",
@@ -183,20 +181,29 @@
   },
   "active": "73088ddf1a823646",
   "lastOpenFiles": [
-    "docs/ARTICLES-OF-INCORPORATION.pdf",
     "index.md",
+    "docs/Articles-of-Incorporation.pdf",
+    "docs/Articles.md",
+    "docs/Phronesis-Conflict-of-Interest-Policy.pdf",
+    "docs/Phronesis-Initial-Organizational-Resolution.md",
+    "docs/Phronesis-Initial-Organizational-Resolution.pdf",
+    "docs/Phronesis-Bylaws.md",
+    "docs/Phronesis-Bylaws.pdf",
+    "docs/Phronesis-Conflict-of-Interest-Policy.md",
     "docs/ARTICLES-OF-INCORPORATION.pdf.md",
+    "docs/Phronesis-Conflict-of-Interest-Policy.pdf.md",
+    "docs/Phronesis-Bylaws.pdf.md",
+    "docs/Phronesis-Initial-Organizational-Resolution.pdf.md",
+    "docs/irs-exemption-letter.pdf",
+    "docs/ARTICLES-OF-INCORPORATION.pdf 2.md",
+    "docs/Phronesis-Initial-Organizational-Resolution 1.md",
+    "docs/ARTICLES-OF-INCORPORATION.pdf 1.md",
     "docs/ARTICLES.md",
     "docs/1023-EZ.pdf",
-    "docs/Phronesis-Initial-Organizational-Resolution.md",
-    "docs/Phronesis-Conflict-of-Interest-Policy.md",
-    "docs/Phronesis-Bylaws.md",
     "docs/~$ronesis_initial_resolution.docx",
     "docs/phronesis_conflict_policy.docx",
     "docs/phronesis_initial_resolution.docx",
     "docs/phronesis_bylaws.docx",
-    "docs/SOS - Corporation - Business Entity Filing Records - 244123691.PDF.crdownload",
-    "docs/irs-ein-letter.pdf",
     "mission-statement 1.md",
     "Holon_Tensor_Index.md",
     "Agora/Emergents/The Nature of Emergents.md",
@@ -208,17 +215,8 @@
     "A Manifesto.md",
     "Benevity/Volunteering.md",
     "janus 1.md",
-    "Phronesis-Online-11-13-Prometheus-fixed.zip",
     "Benevity/Projects.md",
     "Canvases/Syntopolis.canvas",
-    "Prometheus.md",
-    "checklists (1).md",
-    "Checklists/Wildfire_Mitigation_Roadmap.md",
-    "Checklists/Wildfire_Deck_Checklist.md",
-    "Checklists/Wildfire_Checklist_Crosswalk.md",
-    "Checklists/Updated_Roadmap.md",
-    "Checklists/Updated_Checklist.md",
-    "Checklists/prometheus_contact_card.pdf",
     "images/Pasted image 20251016134512.png",
     "images/Pasted image 20251016134005.png",
     "images/pericles-oration.png",

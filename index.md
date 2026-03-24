@@ -32,11 +32,12 @@ title: The Phronesis Project
 - [IRS Exemption Letter](/docs/irs-exemption-letter.pdf)
 - [IRS EIN Letter](/docs/irs-ein-letter.pdf)
 - [IRS Form 1023-EZ](/docs/1023-EZ.pdf)
-- [Phronesis-Initial-Organizational-Resolution](docs\Phronesis-Initial-Organizational-Resolution.md)
-- [Phronesis-Bylaws](docs\Phronesis-Bylaws.md)
-- [Phronesis-Conflict-of-Interest-Policy](docs\Phronesis-Conflict-of-Interest-Policy.md)
-- [ARTICLES OF INCORPORATION](docs\ARTICLES-OF-INCORPORATION.pdf)
-- [[ARTICLES-OF-INCORPORATION.pdf]]
+
+- [Oregon Articles of Incorporation](docs/Articles-of-Incorporation.pdf)
+
+- [Phronesis Initial Organizational Resolution](/docs/Phronesis-Initial-Organizational-Resolution.pdf)
+- [Phronesis Bylaws](/docs/Phronesis-Bylaws.pdf)
+- [Phronesis Conflict of Interest Policy](/docs/Phronesis-Conflict-of-Interest-Policy.pdf)
 
 
 
