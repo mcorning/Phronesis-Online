@@ -1,166 +1,268 @@
 <!doctype html>
 <html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="Support the Phronesis Project with a one-time or monthly tax-deductible donation." />
-  <title>Support — The Phronesis Project</title>
-  <style>
-    :root { color-scheme: light; }
-    * { box-sizing: border-box; }
-    body {
-      margin: 0;
-      font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-      background: #f7f7f8;
-      color: #111;
-      line-height: 1.5;
-    }
-    header {
-      padding: 32px 20px;
-      background: #fff;
-      border-bottom: 1px solid #e5e7eb;
-    }
-    .wrap { max-width: 820px; margin: 0 auto; padding: 24px 20px; }
-    header .wrap { padding-top: 0; padding-bottom: 0; }
-    h1 { margin: 0 0 8px; font-size: clamp(1.8rem, 5vw, 2.4rem); }
-    h2 { margin-top: 34px; }
-    .lead { margin: 0; color: #555; }
-    .notice {
-      margin: 0 0 28px;
-      padding: 14px 16px;
-      background: #fff8dc;
-      border: 1px solid #e6d68b;
-      border-radius: 12px;
-    }
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
-      gap: 16px;
-      margin: 18px 0 28px;
-    }
-    .card {
-      display: flex;
-      flex-direction: column;
-      min-height: 150px;
-      padding: 18px;
-      background: #fff;
-      border: 1px solid #e5e7eb;
-      border-radius: 16px;
-    }
-    .amount { margin: 0; font-size: 1.55rem; font-weight: 700; }
-    .frequency { margin: 2px 0 18px; font-size: .85rem; color: #666; }
-    .support-link {
-      display: block;
-      margin-top: auto;
-      padding: 11px 14px;
-      border-radius: 12px;
-      background: #111;
-      color: #fff;
-      font-weight: 650;
-      text-align: center;
-      text-decoration: none;
-    }
-    .support-link[aria-disabled="true"] {
-      background: #777;
-      cursor: not-allowed;
-      opacity: .75;
-    }
-    footer {
-      margin-top: 34px;
-      padding-top: 18px;
-      border-top: 1px solid #ddd;
-      color: #555;
-      font-size: .92rem;
-    }
-    a { color: inherit; }
-    a:focus-visible { outline: 3px solid #6b8afd; outline-offset: 3px; }
-  </style>
-</head>
-<body>
-  <header>
-    <div class="wrap">
-      <h1>Support the Phronesis Project</h1>
-      <p class="lead">Your donation fuels ethical technology and civic education. Thank you.</p>
-    </div>
-  </header>
-
-  <script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
-
-<stripe-buy-button
-  buy-button-id="buy_btn_1U0qMCDHO2kFGeizodwNCEKe"
-  publishable-key="pk_live_51RmkRpDHO2kFGeizRzQWrNJIMwGSQDh0ZXBhlmOZwtHPaIVawPlMphwRqvZVTijoQpr42ndS6tIVGRQHYOrlMZqw00lZJw8M3v"
->
-</stripe-buy-button>
-
-  <main class="wrap">
-    <p class="notice" id="setup-notice">
-      Online donations are being configured. The choices below will become active when our Stripe payment links are ready.
-    </p>
-
-    <h2>One-time donations</h2>
-    <div class="grid" aria-label="One-time donation amounts">
-      <div class="card"><p class="amount">$10</p><p class="frequency">One time</p><a class="support-link" data-link="oneTime10" href="#">Support $10</a></div>
-      <div class="card"><p class="amount">$25</p><p class="frequency">One time</p><a class="support-link" data-link="oneTime25" href="#">Support $25</a></div>
-      <div class="card"><p class="amount">$50</p><p class="frequency">One time</p><a class="support-link" data-link="oneTime50" href="#">Support $50</a></div>
-      <div class="card"><p class="amount">$100</p><p class="frequency">One time</p><a class="support-link" data-link="oneTime100" href="#">Support $100</a></div>
-    </div>
-
-    <h2>Monthly supporters</h2>
-    <div class="grid" aria-label="Monthly supporter amounts">
-      <div class="card"><p class="amount">$10</p><p class="frequency">Each month</p><a class="support-link" data-link="monthly10" href="#">Give $10 monthly</a></div>
-      <div class="card"><p class="amount">$25</p><p class="frequency">Each month</p><a class="support-link" data-link="monthly25" href="#">Give $25 monthly</a></div>
-      <div class="card"><p class="amount">$50</p><p class="frequency">Each month</p><a class="support-link" data-link="monthly50" href="#">Give $50 monthly</a></div>
-    </div>
-
-    <h2>Patrons</h2>
-    <div class="grid" aria-label="Monthly Patron amounts">
-      <div class="card"><p class="amount">$100</p><p class="frequency">Each month</p><a class="support-link" data-link="patron100" href="#">Give $100 monthly</a></div>
-      <div class="card"><p class="amount">$200</p><p class="frequency">Each month</p><a class="support-link" data-link="patron200" href="#">Give $200 monthly</a></div>
-      <div class="card"><p class="amount">$300</p><p class="frequency">Each month</p><a class="support-link" data-link="patron300" href="#">Give $300 monthly</a></div>
-      <div class="card"><p class="amount">Your call</p><p class="frequency">Choose a one-time amount</p><a class="support-link" data-link="customAmount" href="#">Choose an amount</a></div>
-    </div>
-
-    <footer>
-      <p>See the <a href="/pages/donor-summary/">Donor Summary</a> for tax and organization details.</p>
-      <p><a href="/">← Back to Home</a></p>
-    </footer>
-  </main>
-
-  <script>
-    // Paste each Stripe Payment Link URL between the quotation marks.
-    const paymentLinks = {
-      oneTime10: "",
-      oneTime25: "",
-      oneTime50: "",
-      oneTime100: "",
-      monthly10: "",
-      monthly25: "",
-      monthly50: "",
-      patron100: "",
-      patron200: "",
-      patron300: "",
-      customAmount: ""
-    };
-
-    let activeLinks = 0;
-    document.querySelectorAll("[data-link]").forEach((link) => {
-      const url = paymentLinks[link.dataset.link];
-      if (url) {
-        link.href = url;
-        link.rel = "noopener noreferrer";
-        activeLinks += 1;
-      } else {
-        link.setAttribute("aria-disabled", "true");
-        link.setAttribute("title", "This donation option is not active yet.");
-        link.addEventListener("click", (event) => event.preventDefault());
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Support the Phronesis Project with a one-time or monthly tax-deductible support."
+    />
+    <title>Support — The Phronesis Project</title>
+    <style>
+      :root {
+        color-scheme: light;
       }
-    });
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        font-family:
+          system-ui,
+          -apple-system,
+          'Segoe UI',
+          Roboto,
+          sans-serif;
+        background: #f7f7f8;
+        color: #111;
+        line-height: 1.5;
+      }
+      header {
+        padding: 32px 20px;
+        background: #fff;
+        border-bottom: 1px solid #e5e7eb;
+      }
+      .wrap {
+        max-width: 820px;
+        margin: 0 auto;
+        padding: 24px 20px;
+      }
+      header .wrap {
+        padding-top: 0;
+        padding-bottom: 0;
+      }
+      h1 {
+        margin: 0 0 8px;
+        font-size: clamp(1.8rem, 5vw, 2.4rem);
+      }
+      h2 {
+        margin-top: 34px;
+      }
+      .lead {
+        margin: 0;
+        color: #555;
+      }
+      .notice {
+        margin: 0 0 28px;
+        padding: 14px 16px;
+        background: #fff8dc;
+        border: 1px solid #e6d68b;
+        border-radius: 12px;
+      }
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+        gap: 16px;
+        margin: 18px 0 28px;
+      }
+      .card {
+        display: flex;
+        flex-direction: column;
+        min-height: 150px;
+        padding: 18px;
+        background: #fff;
+        border: 1px solid #e5e7eb;
+        border-radius: 16px;
+      }
+      .amount {
+        margin: 0;
+        font-size: 1.55rem;
+        font-weight: 700;
+      }
+      .frequency {
+        margin: 2px 0 18px;
+        font-size: 0.85rem;
+        color: #666;
+      }
+      .support-link {
+        display: block;
+        margin-top: auto;
+        padding: 11px 14px;
+        border-radius: 12px;
+        background: #111;
+        color: #fff;
+        font-weight: 650;
+        text-align: center;
+        text-decoration: none;
+      }
+      .support-link[aria-disabled='true'] {
+        background: #777;
+        cursor: not-allowed;
+        opacity: 0.75;
+      }
+      footer {
+        margin-top: 34px;
+        padding-top: 18px;
+        border-top: 1px solid #ddd;
+        color: #555;
+        font-size: 0.92rem;
+      }
+      a {
+        color: inherit;
+      }
+      a:focus-visible {
+        outline: 3px solid #6b8afd;
+        outline-offset: 3px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="wrap">
+        <h1>Support the Phronesis Project</h1>
+        <p class="lead">
+          Your support fuels ethical technology and civic education. Thank you.
+        </p>
+      </div>
+    </header>
 
-    if (activeLinks === Object.keys(paymentLinks).length) {
-      document.getElementById("setup-notice").hidden = true;
-    }
-  </script>
-</body>
+    <script async src="https://js.stripe.com/v3/buy-button.js"></script>
+    <div class="stripe-support">
+      <!-- Stripe-generated code here -->
+      <stripe-buy-button
+        buy-button-id="buy_btn_1U0qMCDHO2kFGeizodwNCEKe"
+        publishable-key="pk_live_51RmkRpDHO2kFGeizRzQWrNJIMwGSQDh0ZXBhlmOZwtHPaIVawPlMphwRqvZVTijoQpr42ndS6tIVGRQHYOrlMZqw00lZJw8M3v"
+      >
+      </stripe-buy-button>
+    </div>
+
+    <main class="wrap">
+
+      <h2>One-time support</h2>
+      <div class="grid" aria-label="One-time support amounts">
+        <div class="card">
+          <p class="amount">$10</p>
+          <p class="frequency">One time</p>
+          <a class="support-link" data-link="oneTime10" href="#">Support $10</a>
+        </div>
+        <div class="card">
+          <p class="amount">$25</p>
+          <p class="frequency">One time</p>
+          <a class="support-link" data-link="oneTime25" href="#">Support $25</a>
+        </div>
+        <div class="card">
+          <p class="amount">$50</p>
+          <p class="frequency">One time</p>
+          <a class="support-link" data-link="oneTime50" href="#">Support $50</a>
+        </div>
+        <div class="card">
+          <p class="amount">$100</p>
+          <p class="frequency">One time</p>
+          <a class="support-link" data-link="oneTime100" href="#"
+            >Support $100</a
+          >
+        </div>
+      </div>
+
+      <h2>Monthly supporters</h2>
+      <div class="grid" aria-label="Monthly supporter amounts">
+        <div class="card">
+          <p class="amount">$10</p>
+          <p class="frequency">Each month</p>
+          <a class="support-link" data-link="monthly10" href="#"
+            >Give $10 monthly</a
+          >
+        </div>
+        <div class="card">
+          <p class="amount">$25</p>
+          <p class="frequency">Each month</p>
+          <a class="support-link" data-link="monthly25" href="#"
+            >Give $25 monthly</a
+          >
+        </div>
+        <div class="card">
+          <p class="amount">$50</p>
+          <p class="frequency">Each month</p>
+          <a class="support-link" data-link="monthly50" href="#"
+            >Give $50 monthly</a
+          >
+        </div>
+      </div>
+
+      <h2>Patrons</h2>
+      <div class="grid" aria-label="Monthly Patron amounts">
+        <div class="card">
+          <p class="amount">$100</p>
+          <p class="frequency">Each month</p>
+          <a class="support-link" data-link="patron100" href="#"
+            >Give $100 monthly</a
+          >
+        </div>
+        <div class="card">
+          <p class="amount">$200</p>
+          <p class="frequency">Each month</p>
+          <a class="support-link" data-link="patron200" href="#"
+            >Give $200 monthly</a
+          >
+        </div>
+        <div class="card">
+          <p class="amount">$300</p>
+          <p class="frequency">Each month</p>
+          <a class="support-link" data-link="patron300" href="#"
+            >Give $300 monthly</a
+          >
+        </div>
+        <div class="card">
+          <p class="amount">Your call</p>
+          <p class="frequency">Choose a one-time amount</p>
+          <a class="support-link" data-link="customAmount" href="#"
+            >Choose an amount</a
+          >
+        </div>
+      </div>
+
+      <footer>
+        <p>
+          See the <a href="/pages/support-summary/">Support Summary</a> for tax and
+          organization details.
+        </p>
+        <p><a href="/">← Back to Home</a></p>
+      </footer>
+    </main>
+
+    <script>
+      // Paste each Stripe Payment Link URL between the quotation marks.
+      const paymentLinks = {
+        oneTime10: '',
+        oneTime25: '',
+        oneTime50: '',
+        oneTime100: '',
+        monthly10: '',
+        monthly25: '',
+        monthly50: '',
+        patron100: '',
+        patron200: '',
+        patron300: '',
+        customAmount: '',
+      };
+
+      let activeLinks = 0;
+      document.querySelectorAll('[data-link]').forEach((link) => {
+        const url = paymentLinks[link.dataset.link];
+        if (url) {
+          link.href = url;
+          link.rel = 'noopener noreferrer';
+          activeLinks += 1;
+        } else {
+          link.setAttribute('aria-disabled', 'true');
+          link.setAttribute('title', 'This support option is not active yet.');
+          link.addEventListener('click', (event) => event.preventDefault());
+        }
+      });
+
+      if (activeLinks === Object.keys(paymentLinks).length) {
+        document.getElementById('setup-notice').hidden = true;
+      }
+    </script>
+  </body>
 </html>

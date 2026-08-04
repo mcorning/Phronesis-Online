@@ -1,7 +1,7 @@
 ---
-title: Donor Summary
+title: Support Summary
 layout: default
-permalink: /pages/donor-summary/
+permalink: /pages/support-summary/
 ---
 
 ## What Our 509(a)(2) Status Means
