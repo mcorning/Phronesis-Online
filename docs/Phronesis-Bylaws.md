@@ -103,12 +103,12 @@ Upon dissolution, assets shall be distributed for one or more exempt purposes wi
 
 ## Adoption
 
-These bylaws were adopted by the Board of Directors on:
+These bylaws were adopted by the Board of Directors on:  3/25/2026 
 
-**Date:** ______________________
 
-**Signature:** ______________________  
-Name: Michael Corning
-
-**Signature:** ______________________  
-Name: Michael Shea
+<table style="width:100%; text-align:center;">
+  <tr style="height:80px;">
+    <td>_________________________<br>Michael Corning<br>President</td>
+    <td>_________________________<br>Michael Shea<br>Secretary</td>
+  </tr>
+</table>

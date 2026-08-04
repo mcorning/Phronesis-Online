@@ -8,9 +8,7 @@ The purpose of this Conflict of Interest Policy is to protect the interests of T
 
 Any director or officer with a financial interest or personal interest in a matter before the Board shall disclose the existence of that interest and all material facts to the Board.
 
-The interested person shall leave the meeting during the discussion of, and the vote on, the matter giving rise to the conflict.
-
-The interested person shall not vote on the matter.
+The interested person shall leave the meeting during the discussion of, and the vote on, the matter giving rise to the conflict. The interested person shall not vote on the matter.
 
 ## Records of Proceedings
 
@@ -25,12 +23,12 @@ The minutes of the Board shall contain:
 
 ## Adoption
 
-This policy was adopted by the Board of Directors on:
+This policy was adopted by the Board of Directors on: March 25, 2026
 
-**Date:** ______________________
 
-**Signature:** ______________________  
-Michael Corning
-
-**Signature:** ______________________  
-Michael Shea
+<table style="width:100%; text-align:center;">
+  <tr style="height:80px;">
+    <td>_________________________<br>Michael Corning<br>President</td>
+    <td>_________________________<br>Michael Shea<br>Secretary</td>
+  </tr>
+</table>

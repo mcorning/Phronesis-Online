@@ -2,8 +2,6 @@
 layout: default
 title: The Phronesis Project
 ---
-
-
 ## The Phronesis Project
 ![alt text](</images/phronesis_logo_128.png>)
 
@@ -22,7 +20,7 @@ title: The Phronesis Project
 
 ### How You Can Help
 
-- 💜 Support our cause — [Donations](/pages/donate.html) are tax-deductible. See the [Donor Summary](/pages/donor-summary/) for details.
+- 💜 Support our cause — [Donations](/pages/support.html) are tax-deductible. See the [Donor Summary](/pages/support-summary/) for details.
 - 🧠 Get involved — [Contact us](mailto:info@phronesisproject.org) to collaborate
 
 > “It’s amazing what we can accomplish when no one needs to take credit.”

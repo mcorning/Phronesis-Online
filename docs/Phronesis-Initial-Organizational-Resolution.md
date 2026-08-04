@@ -24,10 +24,13 @@ The bylaws of the Corporation are hereby adopted.
 
 The officers are authorized to take all actions necessary to carry out the purposes of the Corporation.
 
-**Date:** ______________________
+**Date:**  March 25, 2026
 
-**Signature:** ______________________  
-Michael Corning
+<table style="width:100%; text-align:center;">
+  <tr style="height:80px;">
+    <td>_________________________<br>Michael Corning<br>President</td>
+    <td>_________________________<br>Michael Shea<br>Secretary</td>
+  </tr>
+</table>
 
-**Signature:** ______________________  
-Michael Shea
+
