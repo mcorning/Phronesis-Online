@@ -22,24 +22,22 @@ title: The Phronesis Project
 
 ### How You Can Help
 
-- 💜 Support our cause — Donations are tax-deductible See [Donor Summary](/pages/donor-summary/) for details.
+- 💜 Support our cause — [Donations](/pages/donate.html) are tax-deductible. See the [Donor Summary](/pages/donor-summary/) for details.
 - 🧠 Get involved — [Contact us](mailto:info@phronesisproject.org) to collaborate
 
 > “It’s amazing what we can accomplish when no one needs to take credit.”
 > — Ronald Reagan
 
 ### Paperwork
+
 - [IRS Exemption Letter](/docs/irs-exemption-letter.pdf)
 - [IRS EIN Letter](/docs/irs-ein-letter.pdf)
 - [IRS Form 1023-EZ](/docs/1023-EZ.pdf)
 
-- [Oregon Articles of Incorporation](docs/Articles-of-Incorporation.pdf)
-
+- [Oregon Articles of Incorporation](/docs/Articles-of-Incorporation.pdf)
 - [Phronesis Initial Organizational Resolution](/docs/Phronesis-Initial-Organizational-Resolution.pdf)
 - [Phronesis Bylaws](/docs/Phronesis-Bylaws.pdf)
 - [Phronesis Conflict of Interest Policy](/docs/Phronesis-Conflict-of-Interest-Policy.pdf)
-
-
 
 ---
 
