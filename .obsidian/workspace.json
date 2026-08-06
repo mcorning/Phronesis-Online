@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Website Publishing Infrastructure.md",
+                "file": "WIP/Advanced Support Page.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Website Publishing Infrastructure"
+              "title": "Advanced Support Page"
             }
           }
         ]
@@ -185,6 +185,16 @@
   },
   "active": "73088ddf1a823646",
   "lastOpenFiles": [
+    "WIP/checkpoints.md",
+    "WIP/Advanced Support Page.md",
+    "canvases/Frontiers.canvas",
+    "WIP",
+    "Home.md",
+    "canvases",
+    "New folder",
+    "notes/Audit of 2025 EVO Upgrade.md",
+    "notes/Stripe Processing.md",
+    "notes/Website Publishing Infrastructure.md",
     "pages/support-summary.md",
     "pages/support.html",
     "Phronesis/xfiles/canvases/Untitled.canvas",
@@ -198,7 +208,6 @@
     "Phronesis/_x/_pre_wipe.patch",
     "Phronesis/_x",
     "notes/Website Holon.md",
-    "notes/Website Publishing Infrastructure.md",
     "index.md",
     "notes",
     "thanks.html",
@@ -212,8 +221,6 @@
     "Phronesis/projects/prometheus/photos/photos/R001/image-1781650989192.jpg",
     "Phronesis/projects/prometheus/photos/photos/R001/image-1781650978842.jpg",
     "Phronesis/projects/prometheus/photos/photos/R001/image-1781650225755.jpg",
-    "Phronesis/projects/prometheus/photos/photos/R002",
-    "Phronesis/projects/prometheus/photos/photos/R001",
     "Phronesis/projects/prometheus/Experiments/Gas-fired Pyrolysis.md",
     "Phronesis/projects/prometheus/checklists/Wildfire_Mitigation_Roadmap.md",
     "Phronesis/projects/prometheus/checklists/Wildfire_Deck_Checklist.md",
@@ -226,11 +233,6 @@
     "Phronesis/projects/prometheus/checklists/Prometheus_Innovations_Sheet.md",
     "Phronesis/projects/prometheus/checklists/prometheus_elevator_pitch.md",
     "Phronesis/projects/prometheus/checklists/prometheus_contact_card.md",
-    "Phronesis/projects/prometheus/checklists/IBHS_WildfirePrepared_Checklist.md",
-    "Phronesis/projects/prometheus/checklists/IBHS_Checklist_Tasks.md",
-    "Phronesis/projects/prometheus/checklists/Deck_Mitigation_Crosswalk.md",
-    "Phronesis/projects/prometheus/checklists/Deck_Mitigation_Brief.md",
-    "Phronesis/projects/prometheus/checklists/Commission_Deck_Mitigation_Slide.md",
     "Canvases/Syntopolis.canvas"
   ]
 }

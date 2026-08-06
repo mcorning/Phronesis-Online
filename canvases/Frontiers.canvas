@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"206df8cf70bb93f3","type":"file","file":"Home.md","x":-440,"y":-440,"width":417,"height":600,"color":"4"},
+		{"id":"54999b9c616b96ef","type":"text","text":"# Frontier B — SSC Ops (Maintenance)\n\n[Open the SSC OpsFrontier](obsidian://open?vault=Inventory&file=Home)","x":40,"y":-440,"width":540,"height":132},
+		{"id":"90c5a0006690ddfa","type":"text","text":"# Frontier D — Dialogue Archive (Medium)\n\n[Open the Dialogue Archive](obsidian://open?vault=Medium&file=Home)","x":40,"y":4,"width":540,"height":156},
+		{"id":"95ae479959100feb","type":"text","text":"# Frontier C — Janus Navigation\n\n[Open the Janus Frontier](obsidian://open?vault=Janus&file=Home)","x":40,"y":-240,"width":540,"height":156}
+	],
+	"edges":[]
+}
