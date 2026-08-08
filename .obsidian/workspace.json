@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIP/Advanced Support Page.md",
+                "file": "projects/Epictetus/Terms of Art.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Advanced Support Page"
+              "title": "Terms of Art"
             }
           }
         ]
@@ -183,18 +183,25 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "73088ddf1a823646",
+  "active": "dfcf9215f3afc6fc",
   "lastOpenFiles": [
+    "projects/Epictetus/Coming_To_Terms_Epictetus_The_Classroom.md",
+    "projects/Epictetus/conversations-000.json",
+    "projects/Epictetus/Research Program/Research Sketch.md",
+    "projects/Epictetus/Terms of Art.md",
+    "projects/Epictetus/Note-001.md",
+    "projects/Epictetus/Research Program",
+    "notes/Website Publishing Infrastructure.md",
+    "projects/Epictetus",
+    "Home.md",
     "WIP/checkpoints.md",
     "WIP/Advanced Support Page.md",
     "canvases/Frontiers.canvas",
     "WIP",
-    "Home.md",
     "canvases",
     "New folder",
     "notes/Audit of 2025 EVO Upgrade.md",
     "notes/Stripe Processing.md",
-    "notes/Website Publishing Infrastructure.md",
     "pages/support-summary.md",
     "pages/support.html",
     "Phronesis/xfiles/canvases/Untitled.canvas",
@@ -206,11 +213,8 @@
     "Phronesis/xfiles/aristotle-theory-of-virtue.md",
     "Phronesis/xfiles",
     "Phronesis/_x/_pre_wipe.patch",
-    "Phronesis/_x",
     "notes/Website Holon.md",
     "index.md",
-    "notes",
-    "thanks.html",
     "Phronesis/projects/prometheus/photos/photos/R002/image-1781659513427.jpg",
     "Phronesis/projects/prometheus/photos/photos/R002/image-1781659351656.jpg",
     "Phronesis/projects/prometheus/photos/photos/R002/image-1781654114879.jpg",
@@ -229,10 +233,6 @@
     "Phronesis/projects/prometheus/checklists/Updated_Checklist.md",
     "Phronesis/projects/prometheus/checklists/Sisters_Fire_Home_Ignition_Zone_Checklist.md",
     "Phronesis/projects/prometheus/checklists/Prometheus_Triad_and_Webpage.md",
-    "Phronesis/projects/prometheus/checklists/Prometheus_Public_OnePager.md",
-    "Phronesis/projects/prometheus/checklists/Prometheus_Innovations_Sheet.md",
-    "Phronesis/projects/prometheus/checklists/prometheus_elevator_pitch.md",
-    "Phronesis/projects/prometheus/checklists/prometheus_contact_card.md",
     "Canvases/Syntopolis.canvas"
   ]
 }
