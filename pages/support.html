@@ -46,6 +46,17 @@
         padding-top: 0;
         padding-bottom: 0;
       }
+      .site-nav {
+        margin-bottom: 18px;
+        font-size: 0.95rem;
+      }
+      .site-nav a {
+        text-decoration: none;
+        font-weight: 600;
+      }
+      .site-nav a:hover {
+        text-decoration: underline;
+      }
       h1 {
         margin: 0 0 8px;
         font-size: clamp(1.8rem, 5vw, 2.4rem);
@@ -120,6 +131,17 @@
         outline-offset: 3px;
       }
 
+      .corporate-giving {
+        margin-top: 3rem;
+      }
+      .corporate-giving h2 {
+        margin: 0 0 0.75rem;
+        font-size: 1.25rem;
+      }
+      .corporate-giving p {
+        margin: 0;
+      }
+
       .future-feature {
         display: none;
       }
@@ -128,7 +150,10 @@
   <body>
     <header>
       <div class="wrap">
-        <h1>Support the Phronesis Project</h1>
+        <nav class="site-nav" aria-label="Site navigation">
+          <a href="/">← Home</a>
+        </nav>
+        <h1>Support</h1>
         <p class="lead">
           Your support fuels ethical technology and civic education. Thank you.
         </p>
@@ -145,14 +170,14 @@
       </stripe-buy-button>
     </div>
     <main class="wrap">
-      <div class="stripe-support">
-        <h4>Corporate Matching & Workplace Giving</h4>
-
-        Many employers support charitable giving through Benevity. If your
-        company participates, search for Phronesis Project in your workplace
-        giving portal to donate or request matching gifts.
-      </div>
-
+      <section class="corporate-giving">
+        <h2>Corporate Matching & Workplace Giving</h2>
+        <p>
+          Many employers support charitable giving through Benevity. If your
+          company participates, search for Phronesis Project in your workplace
+          giving portal to donate or request matching gifts.
+        </p>
+      </section>
     </main>
 
     <script>
